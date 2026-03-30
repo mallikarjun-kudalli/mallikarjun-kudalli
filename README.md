@@ -51,6 +51,9 @@ Currently, I am focused on improving my skills in **DSA, DBMS, OOP, Computer Net
   <a href="https://www.linkedin.com/in/mallikarjun-kudalli-6332332a7" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://leetcode.com/u/mallikarjun_kudalli/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" />
+  </a>
   <a href="mailto:kudalimallu1@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" height="48"/>
   </a>
