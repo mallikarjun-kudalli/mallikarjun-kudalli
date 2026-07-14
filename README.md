@@ -61,4 +61,9 @@ Currently, I am focused on improving my skills in **DSA, DBMS, OOP, Computer Net
 
 ---
 
+## GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mallikarjun-kudalli&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun-kudalli&layout=compact&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=mallikarjun-kudalli&show_icons=true&theme=github_dark)
+
 ⭐ *Learning step by step and building consistently.*
